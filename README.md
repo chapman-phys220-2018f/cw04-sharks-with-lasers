@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 4
 
-**Author(s):** **CHANGEME**
+**Author(s):** Morgan Holve
 
 ## Specification
 
@@ -26,7 +26,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+I guess yet another useful thing about this assignment is the struggle. You have to go through the code very carefully in order to fully grasp what is both going wrong and what it wants you to do. Again, I find that annoying but its helpful nonetheless. 
 
 **CHANGEME**
 
@@ -39,4 +39,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+Morgan Holve
